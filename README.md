@@ -2,7 +2,7 @@
 Base project template for 3D HDRP in Unity3D.
 
 *Features list*
--High Definition Render Pipeline
+- High Definition Render Pipeline
 - DOTS/ECS/Unity Physics
 - ProBuilder / ProGrids / PolyBrush
 - Shader Graph
