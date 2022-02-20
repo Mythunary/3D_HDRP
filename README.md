@@ -6,7 +6,7 @@ Base project template for 3D HDRP in Unity3D.
 - DOTS/ECS/Unity Physics
 - ProBuilder / ProGrids / PolyBrush
 - Shader Graph
-- Visual Effects Graph
+- Visual Effect Graph
 - Visual Scripting
 - Addressables
 - UI Toolkit / UI Builder
